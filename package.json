@@ -59,7 +59,7 @@
     "reading-time": "^1.5.0",
     "sass": "^1.103.1",
     "sharp": "^0.35.4",
-    "stripe": "^22.6.0",
+    "stripe": "^23.0.0",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
